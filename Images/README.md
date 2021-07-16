@@ -10,6 +10,6 @@
 
 # Internal Icon
 分组策略图标
-|  1   | 2  |  3   | 4  |
+|  Icon_NetEaseMusic   | 2  |  3   | 4  |
 |  ----  | ----  |  ----  | ----  |
 | <img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Icon_NetEaseMusic.png" width="108" height="108"/> |
