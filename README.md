@@ -1,6 +1,7 @@
 # Loon
 Loon App Related
 
-RainyMoment/Loon/Imanges
-自制App logo及Icon
-<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Icon_Clover.png" width="200" height="200"/>
+
+# <img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Icon_Clover.png" width="50" height="50"/>[自制图标][1].
+
+[1]: https://github.com/RainyMoment/Loon/tree/main/Images
