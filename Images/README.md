@@ -8,7 +8,7 @@
 |  5   | 6  |  7   | 8  |
 <img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo5.png" width="200" height="200"/>|
 
-# Internal Icon
+# Group Icon
 分组策略图标
 |  NetEaseMusic   | 2  |  3   | 4  |
 |  ----  | ----  |  ----  | ----  |
