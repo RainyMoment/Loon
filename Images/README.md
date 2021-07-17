@@ -6,7 +6,7 @@
 |  ----  | ----  |  ----  | ----  |
 | <img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo1.png" width="200" height="200" /> | <img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo2.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo3.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo4.png" width="200" height="200" />
 |  5   | 6  |  7   | 8  |
-<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo5.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo6.png" width="200" height="200"/>|src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo7.png" width="200" height="200"/>|src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo8.png" width="200" height="200"/>|
+<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo5.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo6.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo7.png" width="200" height="200"/>|<img src="https://raw.githubusercontent.com/RainyMoment/Loon/main/Images/Logo8.png" width="200" height="200"/>|
 
 # Group Icon
 分组策略图标
